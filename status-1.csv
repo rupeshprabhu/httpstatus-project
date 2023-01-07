@@ -1,0 +1,10 @@
+URL,Status
+https://www.google.com/,200
+https://www.bing.com/,200
+https://httpstat.us/200,200
+https://httpstat.us/200,200
+https://httpstat.us/301,301
+https://httpstat.us/404,404
+https://httpstat.us/403,403
+https://httpstat.us/401,401
+https://httpstat.us/400,400
