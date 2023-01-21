@@ -32,7 +32,7 @@ class httpStatusCode(App):
                         text="Greet",
                         size_hint = (1,0.5),
                         bold = True,
-                        # backgroud_color = '#00FFCE',
+                        background_color ='#00FFCE',
                         # background_normal = ""
                         )
         self.button.bind(on_press=self.callback)
